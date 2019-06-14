@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="suggestion box" language="en" table="x_366647_sinduit_suggestion_box">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>suggestion box</label>
+            <language>en</language>
+            <name>x_366647_sinduit_suggestion_box</name>
+            <plural>suggestion boxes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-12 23:45:19</sys_created_on>
+            <sys_id>234d4bf0db0e3300754770e239961966</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>suggestion box</sys_name>
+            <sys_package display_value="sinduit" source="x_366647_sinduit">b1dbfd9cdb023300754770e23996198b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="sinduit">b1dbfd9cdb023300754770e23996198b</sys_scope>
+            <sys_update_name>sys_documentation_x_366647_sinduit_suggestion_box__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-12 23:45:19</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

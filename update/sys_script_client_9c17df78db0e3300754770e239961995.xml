@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description>onload make suggestion field mandatory</description>
+        <field>rating</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>suggestion mandatory</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+   //Type appropriate comment here, and begin script below
+	g_form.isMandatory('suggestions');
+   
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-13 00:37:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9c17df78db0e3300754770e239961995</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>suggestion mandatory</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="sinduit" source="x_366647_sinduit">b1dbfd9cdb023300754770e23996198b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sinduit">b1dbfd9cdb023300754770e23996198b</sys_scope>
+        <sys_update_name>sys_script_client_9c17df78db0e3300754770e239961995</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-13 00:37:50</sys_updated_on>
+        <table>x_366647_sinduit_suggestion_box</table>
+        <type>onLoad</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

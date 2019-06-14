@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="visitor" max_length="40" name="x_366647_sinduit_visitor" type="collection">
+        <element label="address" max_length="40" name="address" type="string"/>
+        <element label="email" max_length="255" name="email" type="string_full_utf8"/>
+        <element label="in date" max_length="40" name="in_date" type="glide_date"/>
+        <element label="in time" max_length="40" name="in_time" type="glide_time"/>
+        <element label="name" max_length="40" name="name" type="string"/>
+        <element label="out date" max_length="40" name="out_date" type="glide_date"/>
+        <element label="out time" max_length="40" name="out_time" type="glide_time"/>
+        <element label="phone" max_length="40" name="phone" type="phone_number_e164"/>
+        <element label="purpose of meet" max_length="40" name="purpose_of_meet" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="rating" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element inactive_on_update="false" label="1" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="2" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="3" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="4" sequence="3" value="4"/>
+                <element inactive_on_update="false" label="5" sequence="4" value="5"/>
+            </choice>
+        </element>
+        <element label="feedback" max_length="80" name="u_field_name_2" type="field_name"/>
+        <element attributes="edge_encryption_enabled=true" label="New String" max_length="40" name="u_string_3" type="string"/>
+        <element label="whom to meet" max_length="40" name="whom_to_meet" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="purpose_of_meet" label="purpose of meet" language="en" table="x_366647_sinduit_visitor">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>purpose_of_meet</element>
+            <help/>
+            <hint/>
+            <label>purpose of meet</label>
+            <language>en</language>
+            <name>x_366647_sinduit_visitor</name>
+            <plural>purpose of meets</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-12 00:50:54</sys_created_on>
+            <sys_id>2eb25ea0db023300754770e239961952</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>purpose of meet</sys_name>
+            <sys_package display_value="sinduit" source="x_366647_sinduit">b1dbfd9cdb023300754770e23996198b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="sinduit">b1dbfd9cdb023300754770e23996198b</sys_scope>
+            <sys_update_name>sys_documentation_x_366647_sinduit_visitor_purpose_of_meet_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-12 00:50:54</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="suggestion box" max_length="40" name="x_366647_sinduit_suggestion_box" type="collection">
+        <element label="rating" max_length="40" name="rating" type="integer"/>
+        <element label="suggestions" max_length="40" name="suggestions" type="string"/>
+    </element>
+</database>

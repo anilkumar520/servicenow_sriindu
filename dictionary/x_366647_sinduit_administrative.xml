@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="administrative" max_length="40" name="x_366647_sinduit_administrative" type="collection">
+        <element label="department" max_length="40" name="department" type="string"/>
+        <element label="dept id" max_length="40" name="dept_id" type="float"/>
+        <element label="name" max_length="40" name="name" type="string"/>
+    </element>
+</database>

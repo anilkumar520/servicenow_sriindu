@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="suuggestion record">6e7d0ff0db0e3300754770e2399619d6</sc_cat_item>
+        <sc_catalog display_value="college service">630eadb8db0a3300754770e2399619e8</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-13 04:47:03</sys_created_on>
+        <sys_id>5b52d80ddb8e3300754770e2399619a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>college service.suuggestion record</sys_name>
+        <sys_package display_value="sinduit" source="x_366647_sinduit">b1dbfd9cdb023300754770e23996198b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sinduit">b1dbfd9cdb023300754770e23996198b</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_5b52d80ddb8e3300754770e2399619a8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-13 04:47:03</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

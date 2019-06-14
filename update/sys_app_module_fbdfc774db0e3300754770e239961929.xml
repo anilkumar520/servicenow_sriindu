@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="college">3a687d70db4a3300754770e2399619fd</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>suggestion box</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_366647_sinduit_suggestion_box</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>content_manager</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-13 00:00:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fbdfc774db0e3300754770e239961929</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>suggestion box</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="sinduit" source="x_366647_sinduit">b1dbfd9cdb023300754770e23996198b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sinduit">b1dbfd9cdb023300754770e23996198b</sys_scope>
+        <sys_update_name>sys_app_module_fbdfc774db0e3300754770e239961929</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-13 00:00:20</sys_updated_on>
+        <timeline_page/>
+        <title>suggestion box</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="request for desktop">b862b57cdb0a3300754770e2399619d3</sc_cat_item>
+        <sc_catalog display_value="college service">630eadb8db0a3300754770e2399619e8</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 17:11:10</sys_created_on>
+        <sys_id>ce13f1bcdb0a3300754770e23996194b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>college service.request for desktop</sys_name>
+        <sys_package display_value="sinduit" source="x_366647_sinduit">b1dbfd9cdb023300754770e23996198b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sinduit">b1dbfd9cdb023300754770e23996198b</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_ce13f1bcdb0a3300754770e23996194b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 17:11:10</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

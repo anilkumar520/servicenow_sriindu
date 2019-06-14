@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="log incident" max_length="40" name="x_366647_sinduit_log_incident" sizeclass="1" type="collection">
+        <element label="affected user" max_length="32" name="affected_user" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element choice="1" default="email&#13;&#10;" label="content type" max_length="40" name="content_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="-- New choice --" value="-- New choice --"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="end date" max_length="40" name="end_date" type="glide_date"/>
+        <element label="history" max_length="4000" name="history" type="journal"/>
+        <element label="request date" max_length="40" name="request_date" type="glide_date_time"/>
+        <element label="response date" max_length="40" name="response_date" type="glide_date_time"/>
+        <element choice="1" default="enter state" label="select state" max_length="40" name="select_state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="andhra" value="ap"/>
+                <element inactive_on_update="false" label="telangana" value="ts"/>
+            </choice>
+        </element>
+        <element default="default val" label="sindu col1" max_length="100" name="sindu_col1" type="string"/>
+        <element display="true" label="sindu col2" max_length="100" name="sindu_col2" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="start date" max_length="40" name="start_date" type="glide_date"/>
+    </element>
+</database>

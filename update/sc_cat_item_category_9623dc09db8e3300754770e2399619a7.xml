@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="suuggestion record">6e7d0ff0db0e3300754770e2399619d6</sc_cat_item>
+        <sc_category display_value="books">376ee1f8db0a3300754770e239961992</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-13 04:50:31</sys_created_on>
+        <sys_id>9623dc09db8e3300754770e2399619a7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>books.suuggestion record</sys_name>
+        <sys_package display_value="sinduit" source="x_366647_sinduit">b1dbfd9cdb023300754770e23996198b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sinduit">b1dbfd9cdb023300754770e23996198b</sys_scope>
+        <sys_update_name>sc_cat_item_category_9623dc09db8e3300754770e2399619a7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-13 04:50:31</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>
